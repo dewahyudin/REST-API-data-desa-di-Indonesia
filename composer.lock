@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "5035239b54b14665b8160419adaa578c",
+=======
+    "content-hash": "aa322c53454393ed775cfe4807d54a50",
+>>>>>>> ed98fafebf0aae11713ca098d9b640f10aa75533
     "packages": [
         {
             "name": "brick/math",
@@ -1423,6 +1427,7 @@
             "time": "2023-08-15T14:27:00+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravolt/indonesia",
             "version": "v0.34",
             "source": {
@@ -1505,6 +1510,8 @@
             "time": "2023-03-05T15:16:54+00:00"
         },
         {
+=======
+>>>>>>> ed98fafebf0aae11713ca098d9b640f10aa75533
             "name": "league/commonmark",
             "version": "2.4.1",
             "source": {

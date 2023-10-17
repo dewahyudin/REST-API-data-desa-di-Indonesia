@@ -168,7 +168,10 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+<<<<<<< HEAD
         Laravolt\Indonesia\ServiceProvider::class,
+=======
+>>>>>>> ed98fafebf0aae11713ca098d9b640f10aa75533
     ])->toArray(),
 
     /*
@@ -184,7 +187,10 @@ return [
 
     'aliases' => Facade::defaultAliases()->merge([
         // 'Example' => App\Facades\Example::class,
+<<<<<<< HEAD
         'Indonesia' => Laravolt\Indonesia\Facade::class,
+=======
+>>>>>>> ed98fafebf0aae11713ca098d9b640f10aa75533
     ])->toArray(),
 
 ];
